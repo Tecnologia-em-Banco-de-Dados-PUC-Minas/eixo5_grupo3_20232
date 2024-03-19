@@ -74,11 +74,11 @@ Controle de acesso foi escolhido o uniforme, pois nossos dados são públicos e 
 
 ![image](https://github.com/amandacordeiro/data_on_cloud/assets/50846753/e2950469-68a0-4e81-a926-984489b24ec6)
 
-Selecione o tipo de proteção (Ferramenta e Criptogradia), optamos por não selecionar nehuma ferramenta e utilizar a chave de criptogfrafia padrão google:
+Selecione o tipo de proteção (Ferramenta e Criptografia), optamos por não selecionar nehuma ferramenta e utilizar a chave de criptogfrafia padrão google:
 
 ![image](https://github.com/amandacordeiro/data_on_cloud/assets/50846753/c3153385-3466-48b7-85ee-4c7b1434ee2f)
 
-Pronto bucket do Cloud Storage configurado, agora basta clicar em permisões e adicinar perfis para acesso ao seu Data Lake GCP(Cloud Storage):
+Pronto! Com o bucket do Cloud Storage configurado, agora basta clicar em permisões e adicinar perfis para acesso ao seu Data Lake GCP(Cloud Storage):
 
 ![image](https://github.com/amandacordeiro/data_on_cloud/assets/50846753/b5811a68-11cd-4203-b3cd-1e982042ceeb)
 
